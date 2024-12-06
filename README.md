@@ -1,5 +1,6 @@
 # Hospital-Management-System-2
 The Hospital Management System is a simple web-based application designed to streamline various processes within a hospital, such as managing patients, doctors, and appointments. The system allows users to add new patients, doctors with specializations, and book appointments between patients and doctors. This system is built using HTML, CSS, JavaScript, and Bootstrap for the frontend, providing an interactive and responsive interface.
+
 **FEATURES**
 The key features of the Hospital Management System are:
 Add Patient: Allows the addition of new patients with essential details such as name, age, and ailment.
